@@ -13,4 +13,4 @@ while len(arr) > 0:
 
 print("<", end="")
 print(", ".join(map(str, result)), end="")
-print(">")
+print(">")                         
